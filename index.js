@@ -1,6 +1,8 @@
 /** 
 1. Declare a function below called `tellStory()`
+
 2. Inside your new function return a single string using backticks (**``**) that tells the whole story of 'A Tale of Fire and Functions'
+
 3. Uncomment the console.log() line by deleting the two forward slashes in front of it and click the Run button above to check it has worked.
 */
 
